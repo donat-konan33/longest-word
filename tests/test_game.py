@@ -53,6 +53,7 @@ class TestGame:
 # tests/test_game.py
 # [...]
 #
+#
     def test_unknown_word_is_invalid(self):
         """A word that is not in the English dictionary should not be valid"""
         new_game = Game()
